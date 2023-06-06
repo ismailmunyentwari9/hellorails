@@ -1,1 +1,1 @@
-# Ruby-group-capstone
+# hellorails
